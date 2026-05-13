@@ -42,3 +42,25 @@ User attributes
 → Application access
 → Entitlements
 → Review and certification
+```
+
+## Example
+
+If a user has:
+
+```text
+Department = Finance
+Job Title = Finance Analyst
+```
+
+Then the user receives:
+
+```text
+Business Role = Finance Analyst
+Application = Finance Portal
+Entitlements = Finance_Read, Reports_View
+```
+
+## Lab Outcome
+
+Created a role and entitlement model to show how business roles map to applications and permissions. This simulates how IGA tools use roles and entitlements to support least privilege, access reviews, and compliance.
