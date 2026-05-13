@@ -1,6 +1,6 @@
 # Identity Governance SailPoint Simulation
 
-This project simulates Identity Governance and Administration (IGA) workflows based on SailPoint concepts.
+This project simulates Identity Governance and Administration (IGA) workflows commonly used in SailPoint-style identity governance environments.
 
 The goal is to demonstrate practical understanding of identity lifecycle management, access requests, approvals, entitlements, access reviews, certifications, and revocation.
 
@@ -31,6 +31,7 @@ The environment includes users from HR, Finance, IT, and Contractor teams. Acces
 - [Access Review Certification](docs/access-review-certification.md)
 - [Revocation Process](docs/revocation-process.md)
 - [IGA Flow Diagram](diagrams/iga-flow.md)
+- [Access Review Template](templates/access-review-template.md)
 
 ## Tools Used
 
